@@ -1,0 +1,9 @@
+C:\Users\Cleber Spirlandeli\Desktop\ESTUDOS\asp-net\SpaUserControl\SpaUserControl.Domain\obj\Debug\SpaUserControl.Domain.csprojAssemblyReference.cache
+C:\Users\Cleber Spirlandeli\Desktop\ESTUDOS\asp-net\SpaUserControl\SpaUserControl.Domain\obj\Debug\SpaUserControl.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Cleber Spirlandeli\Desktop\ESTUDOS\asp-net\SpaUserControl\SpaUserControl.Domain\bin\Debug\SpaUserControl.Domain.dll
+C:\Users\Cleber Spirlandeli\Desktop\ESTUDOS\asp-net\SpaUserControl\SpaUserControl.Domain\bin\Debug\SpaUserControl.Domain.pdb
+C:\Users\Cleber Spirlandeli\Desktop\ESTUDOS\asp-net\SpaUserControl\SpaUserControl.Domain\bin\Debug\SpaUserControl.Common.dll
+C:\Users\Cleber Spirlandeli\Desktop\ESTUDOS\asp-net\SpaUserControl\SpaUserControl.Domain\bin\Debug\SpaUserControl.Common.pdb
+C:\Users\Cleber Spirlandeli\Desktop\ESTUDOS\asp-net\SpaUserControl\SpaUserControl.Domain\obj\Debug\SpaUserControl.Domain.csproj.CopyComplete
+C:\Users\Cleber Spirlandeli\Desktop\ESTUDOS\asp-net\SpaUserControl\SpaUserControl.Domain\obj\Debug\SpaUserControl.Domain.dll
+C:\Users\Cleber Spirlandeli\Desktop\ESTUDOS\asp-net\SpaUserControl\SpaUserControl.Domain\obj\Debug\SpaUserControl.Domain.pdb
