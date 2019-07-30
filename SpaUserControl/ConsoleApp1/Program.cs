@@ -12,7 +12,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             var user = new User(
-                "Cleber Rezende", 
+                "Cle", 
                 "test@test.com");
 
             try

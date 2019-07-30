@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{FB70676F-1A31-4082-B418-B01C88C44387}</ProjectGuid>
+    <ProjectGuid>{D11421A9-395A-4A9A-964C-600F277EE74E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SpaUserControl.Domain</RootNamespace>
-    <AssemblyName>SpaUserControl.Domain</AssemblyName>
+    <RootNamespace>SpaUserControl.Infraestructure</RootNamespace>
+    <AssemblyName>SpaUserControl.Infraestructure</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -31,7 +31,14 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -41,14 +48,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Contracts\Repositories\IUserRepository.cs" />
-    <Compile Include="Models\User.cs" />
+    <Compile Include="Data\AppDataContext.cs" />
+    <Compile Include="Data\Map\UserMap.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\SpaUserControl.Common\SpaUserControl.Common.csproj">
-      <Project>{061018df-b9eb-4fd0-9d40-23eac247a182}</Project>
-      <Name>SpaUserControl.Common</Name>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SpaUserControl.Domain\SpaUserControl.Domain.csproj">
+      <Project>{fb70676f-1a31-4082-b418-b01c88c44387}</Project>
+      <Name>SpaUserControl.Domain</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
