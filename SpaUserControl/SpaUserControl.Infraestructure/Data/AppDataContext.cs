@@ -4,7 +4,7 @@ using System.Data.Entity;
 
 namespace SpaUserControl.Infraestructure.Data
 {
-    class AppDataContext : DbContext
+    public class AppDataContext : DbContext
     {
         public AppDataContext()
             : base("AppConnectionString")

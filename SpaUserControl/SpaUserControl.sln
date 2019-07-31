@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaUserControl.Infraestructure", "SpaUserControl.Infraestructure\SpaUserControl.Infraestructure.csproj", "{D11421A9-395A-4A9A-964C-600F277EE74E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaUserControl.Startup", "SpaUserControl.Startup\SpaUserControl.Startup.csproj", "{F97A600C-8BD6-4D0C-B764-2C38253E2F3F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{D11421A9-395A-4A9A-964C-600F277EE74E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D11421A9-395A-4A9A-964C-600F277EE74E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D11421A9-395A-4A9A-964C-600F277EE74E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F97A600C-8BD6-4D0C-B764-2C38253E2F3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F97A600C-8BD6-4D0C-B764-2C38253E2F3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F97A600C-8BD6-4D0C-B764-2C38253E2F3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F97A600C-8BD6-4D0C-B764-2C38253E2F3F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -24,7 +24,7 @@ namespace ConsoleApp1
 
             using (IUserRepository userRep = new UserRepository())
             {
-                var usr = userRep.Get("contato.spirlandeli1@gmail.com");
+                var usr = userRep.Get("contato.spirlandeli@gmail.com");
                 Console.WriteLine(usr.Email);
             }
         }
