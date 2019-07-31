@@ -10,3 +10,10 @@ C:\Users\Cleber Spirlandeli\Desktop\ESTUDOS\asp-net\SpaUserControl\ConsoleApp1\o
 C:\Users\Cleber Spirlandeli\Desktop\ESTUDOS\asp-net\SpaUserControl\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
 C:\Users\Cleber Spirlandeli\Desktop\ESTUDOS\asp-net\SpaUserControl\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Users\Cleber Spirlandeli\Desktop\ESTUDOS\asp-net\SpaUserControl\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Cleber Spirlandeli\Desktop\ESTUDOS\asp-net\SpaUserControl\ConsoleApp1\bin\Debug\EntityFramework.dll
+C:\Users\Cleber Spirlandeli\Desktop\ESTUDOS\asp-net\SpaUserControl\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cleber Spirlandeli\Desktop\ESTUDOS\asp-net\SpaUserControl\ConsoleApp1\bin\Debug\EntityFramework.xml
+C:\Users\Cleber Spirlandeli\Desktop\ESTUDOS\asp-net\SpaUserControl\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cleber Spirlandeli\Desktop\ESTUDOS\asp-net\SpaUserControl\ConsoleApp1\bin\Debug\SpaUserControl.Infraestructure.dll
+C:\Users\Cleber Spirlandeli\Desktop\ESTUDOS\asp-net\SpaUserControl\ConsoleApp1\bin\Debug\SpaUserControl.Infraestructure.pdb
+C:\Users\Cleber Spirlandeli\Desktop\ESTUDOS\asp-net\SpaUserControl\ConsoleApp1\bin\Debug\SpaUserControl.Infraestructure.dll.config

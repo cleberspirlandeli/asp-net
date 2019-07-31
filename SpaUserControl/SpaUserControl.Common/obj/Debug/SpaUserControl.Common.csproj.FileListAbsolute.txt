@@ -4,3 +4,6 @@ C:\Users\Cleber Spirlandeli\Desktop\ESTUDOS\asp-net\SpaUserControl\SpaUserContro
 C:\Users\Cleber Spirlandeli\Desktop\ESTUDOS\asp-net\SpaUserControl\SpaUserControl.Common\bin\Debug\SpaUserControl.Common.pdb
 C:\Users\Cleber Spirlandeli\Desktop\ESTUDOS\asp-net\SpaUserControl\SpaUserControl.Common\obj\Debug\SpaUserControl.Common.dll
 C:\Users\Cleber Spirlandeli\Desktop\ESTUDOS\asp-net\SpaUserControl\SpaUserControl.Common\obj\Debug\SpaUserControl.Common.pdb
+C:\Users\Cleber Spirlandeli\Desktop\ESTUDOS\asp-net\SpaUserControl\SpaUserControl.Common\obj\Debug\SpaUserControl.Common.Resources.Errors-pt-BR.resources
+C:\Users\Cleber Spirlandeli\Desktop\ESTUDOS\asp-net\SpaUserControl\SpaUserControl.Common\obj\Debug\SpaUserControl.Common.Resources.Errors.resources
+C:\Users\Cleber Spirlandeli\Desktop\ESTUDOS\asp-net\SpaUserControl\SpaUserControl.Common\obj\Debug\SpaUserControl.Common.csproj.GenerateResource.cache

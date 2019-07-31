@@ -7,6 +7,8 @@ namespace SpaUserControl.Domain.Models
     public class User
     {
         #region Ctor
+        protected User() { }
+
         public User(string name, string email)
         {
             this.Id = Guid.NewGuid();

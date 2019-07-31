@@ -12,7 +12,7 @@ namespace SpaUserControl.Infraestructure.Data.Map
             ToTable("User");
 
             Property(x => x.Id)
-                            .HasDatabaseGeneratedOption(DatabaseGeneratedOption.Identity);
+                .HasDatabaseGeneratedOption(DatabaseGeneratedOption.Identity);
 
             Property(x => x.Name)
                 .HasMaxLength(60)

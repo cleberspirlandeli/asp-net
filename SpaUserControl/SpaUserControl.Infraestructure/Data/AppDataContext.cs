@@ -10,7 +10,7 @@ namespace SpaUserControl.Infraestructure.Data
             : base("AppConnectionString")
         {
             Configuration.LazyLoadingEnabled = false;
-
+            Configuration.ProxyCreationEnabled = false;
         }
 
         public DbSet<User> Users { get; set; }

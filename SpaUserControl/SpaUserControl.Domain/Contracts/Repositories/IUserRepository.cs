@@ -1,13 +1,9 @@
 ﻿using SpaUserControl.Domain.Models;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SpaUserControl.Domain.Contracts.Repositories
 {
-    interface IUserRepository
+    public interface IUserRepository : IDisposable
     {
         User Get(string email);
 
