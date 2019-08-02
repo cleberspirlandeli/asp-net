@@ -61,6 +61,24 @@ namespace SpaUserControl.Common.Resources {
         }
         
         /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a Email já existente.
+        /// </summary>
+        internal static string DuplicateEmail {
+            get {
+                return ResourceManager.GetString("DuplicateEmail", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a Usuário ou senha inválido.
+        /// </summary>
+        internal static string InvalidCredentials {
+            get {
+                return ResourceManager.GetString("InvalidCredentials", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Consulta uma cadeia de caracteres localizada semelhante a Email inválido.
         /// </summary>
         internal static string InvalidEmail {
@@ -102,6 +120,15 @@ namespace SpaUserControl.Common.Resources {
         internal static string PasswordDoNotMatch {
             get {
                 return ResourceManager.GetString("PasswordDoNotMatch", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a Usuário não encontrado.
+        /// </summary>
+        internal static string UserNotFound {
+            get {
+                return ResourceManager.GetString("UserNotFound", resourceCulture);
             }
         }
     }
